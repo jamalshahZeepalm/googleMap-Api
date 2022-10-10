@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880407699828",
+    "project_id": "map-app-76eb2",
+    "storage_bucket": "map-app-76eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880407699828:android:b6a0de8609ba333d614c21",
+        "android_client_info": {
+          "package_name": "com.zee.mymap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880407699828-16omb5sbmfl48jov1vehh54t7ldp3ecc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ekNwQPIoqQGs1gzLiTw6tar78d0DsQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880407699828-16omb5sbmfl48jov1vehh54t7ldp3ecc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
